@@ -1,0 +1,33 @@
+.App {
+  height: 90vh;
+  background-color: #6222CC;
+}
+
+
+.hero-image{
+  width: 500px;
+  height: auto;
+}
+.left-box{
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.login{
+  padding: 50px 10px;
+  border-radius: 10px;
+  background-color: rgb(240, 223, 255);
+}
+.login-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #6222CC;
+}
+.role-sector{
+  background-color: rgb(240, 223, 255);
+  padding: 30px 20px 10px 20px;
+  border-radius: 10px;
+}
+
